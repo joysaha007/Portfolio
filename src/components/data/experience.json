@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "role": "Project Leader - Honey E-commerce Website",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "IUB",
+    "experiences":"Led a team of 3 to develop an e-commerce site using HTML, CSS, JavaScript, PHP, and SQL. Managed project timelines, coordinated tasks, and ensured successful on-time finish.",
+    "imageSrc": "company/iub.png"
+  },
+  {
+    "id": 2,
+    "role": "Project Leader - Langka Bangla Website",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "IUB",
+    "experiences":  "Collaborated with a team of 4 to design and develop a fully functional website for Langka Bangla using HTML, CSS, MySQL, JavaScript, and PHP. Analyzed their process model and created a tailored web solution that met their operational needs.",
+    "imageSrc": "company/iub.png"
+  }
+]
